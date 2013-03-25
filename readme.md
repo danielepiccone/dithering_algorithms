@@ -1,9 +1,8 @@
-=Dithering algorithms
-
+# Dithering algorithms
 Simple Processing implementations of some dithering algorithms
-	- Ordered dither
-	- Floyd-Steinberg
-	- Atkinson
+	Ordered dither
+	Floyd-Steinberg
+	Atkinson
 
 Monochrome and 3bit RGB version
 

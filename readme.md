@@ -4,6 +4,7 @@ Simple Processing implementations of some dithering algorithms
 * Ordered dither
 * Floyd-Steinberg
 * Atkinson
+* Random
 
 Monochrome and 3bit RGB version
 
